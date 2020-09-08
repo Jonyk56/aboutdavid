@@ -1,4 +1,4 @@
-<img src="https://github.com/aboutDavid/aboutdavid/blob/master/hello.png" />
+<img src="https://github.com/aboutDavid/aboutdavid/raw/master/hello.png" />
 
 ### Hi there 👋
 
