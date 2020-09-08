@@ -1,4 +1,4 @@
-![Header][Header (created with https://reheaderv2.glitch.me)]
+<img src="https://github.com/aboutDavid/aboutdavid/blob/master/hello.png" />
 
 ### Hi there 👋
 
@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[header]: https://github.com/aboutDavid/aboutdavid/raw/master/hello.png "Header (created with https://reheaderv2.glitch.me)"
