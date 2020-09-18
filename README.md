@@ -1,4 +1,4 @@
-<img src="https://github.com/aboutDavid/aboutdavid/raw/master/hello.png" />
+<img src="https://u.aboutdavid.me/uKJuxpf.png" />
 
 ### Hi there 👋
 
