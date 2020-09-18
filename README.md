@@ -3,7 +3,7 @@
 
 ### Basic overview
 [![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=aboutdavid&show_icons=true&theme=vue&count_private=true)](https://github.com/aboutDavid)<br>
-[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=aboutDavid&layout=compact&theme=vue&hide=ruby&count_private=true)](https://github.com/aboutDavid)
+[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=aboutDavid&layout=compact&theme=vue&count_private=true)](https://github.com/aboutDavid)
 
 
 ### Pins:
