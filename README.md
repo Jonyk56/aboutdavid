@@ -2,7 +2,12 @@
 
 ### Hi there 👋
 
+![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=aboutdavid&show_icons=true)
+![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=aboutDavid&layout=compact)
 
+
+### Pins:
+![ReHeaderV2](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=REHeaderv2)]
 
 
 <!--
