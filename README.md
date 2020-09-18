@@ -2,12 +2,12 @@
 
 
 ### Basic overview
-![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=aboutdavid&show_icons=true&theme=vue&count_private=true)<br>
-![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=aboutDavid&layout=compact&theme=vue&hide=ruby&count_private=true)
+[![Basic Stats](https://github-readme-stats-1-plum.vercel.app/api?username=aboutdavid&show_icons=true&theme=vue&count_private=true)](https://github.com/aboutDavid)<br>
+[![Top Langs](https://github-readme-stats-1-plum.vercel.app/api/top-langs/?username=aboutDavid&layout=compact&theme=vue&hide=ruby&count_private=true)](https://github.com/aboutDavid)
 
 
 ### Pins:
-![ReHeaderV2](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=REHeaderv2&theme=vue)
+[![ReHeaderV2](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=REHeaderv2&theme=vue)](https://github.com/aboutDavid/ReHeaderV2)
 
 
 <!--
