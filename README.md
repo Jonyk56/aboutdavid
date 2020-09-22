@@ -8,7 +8,7 @@
 
 ### Pins:
 [![ReHeaderV2](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=REHeaderv2&theme=vue)](https://github.com/aboutDavid/ReHeaderV2)
-[![ipfsbin](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=ipfsbin&theme=vue)](https://github.com/aboutDavid/ipfsbin)
+[![ipfsbin](https://github-readme-stats.vercel.app/api/pin/?username=aboutDavid&repo=p2pbin&theme=vue)](https://github.com/aboutDavid/ipfsbin)
 
 
 
